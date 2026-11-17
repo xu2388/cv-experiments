@@ -1,0 +1,5 @@
+Method,TestAccuracy(%),ImprovementOverBaseline(pp)
+Baseline (500 labeled),27.40,+0.00
+Self-Training (th=0.95),21.72,-5.68
+Self-Training (th=0.99),18.90,-8.50
+Fully Supervised (50k),92.42,+65.02

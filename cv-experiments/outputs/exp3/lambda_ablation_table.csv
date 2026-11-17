@@ -1,0 +1,6 @@
+Experiment,Cls Acc (%),Lay Acc (%)
+Single-task Cls,59.68,-
+Single-task Lay,-,80.38
+Multi-task lam=0.1,60.28,80.51
+Multi-task lam=0.5,59.96,80.67
+Multi-task lam=1.0,59.88,80.34

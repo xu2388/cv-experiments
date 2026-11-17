@@ -1,0 +1,12 @@
+{
+  "dice_source_only_source": 1.0,
+  "dice_source_only_target": 0.0932,
+  "dice_adversarial_source": 0.9948,
+  "dice_adversarial_target": 0.0002,
+  "dice_improvement_target": -0.093,
+  "num_epochs": 30,
+  "batch_size": 16,
+  "learning_rate": 0.001,
+  "lambda_adv": 0.01,
+  "num_train_samples": 2000
+}
